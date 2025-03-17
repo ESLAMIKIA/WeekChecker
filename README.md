@@ -7,6 +7,10 @@ It updates automatically every Friday to reflect the new week.
 
 ---
 
+📥 Download APK
+----------------------------------------------------------
+[![Download APK](https://img.shields.io/badge/Download-APK-blue.svg)](https://github.com/ESLAMIKIA/Music-Player-APK/releases/download/MusicPlayer/app-release.apk)
+
 ## 🚀 Features
 
 - 📆 Displays even or odd week status  
