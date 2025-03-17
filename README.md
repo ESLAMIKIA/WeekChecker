@@ -12,7 +12,6 @@ It updates automatically every Friday to reflect the new week.
 - 📆 Displays even or odd week status  
 - 🔄 Automatically updates every Friday  
 - 🎨 Customizable widget size
-- 
 ---
 
 ## 📥 Installation
