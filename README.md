@@ -22,7 +22,7 @@ It updates automatically every Friday to reflect the new week.
 
 ![Screenshot_20250318_010609](https://github.com/user-attachments/assets/46380ae5-c35e-4eed-afa1-e728d151cd8e)
 
-![Uploading Screenshot_20250318_010700.png…]()
+![Screenshot_20250318_010700](https://github.com/user-attachments/assets/c61a7ae2-1cfc-4062-9bfa-318141b3616a)
 
 ![Screenshot_20250318_010648](https://github.com/user-attachments/assets/0d174bde-f429-4898-a8c6-bd4887fd091a)
 
