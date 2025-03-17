@@ -17,6 +17,14 @@ It updates automatically every Friday to reflect the new week.
 - 🔄 Automatically updates every Friday  
 - 🎨 Customizable widget size
 ---
+📸 Screenshots
+----------------------------------------------------------------------------
+
+![Screenshot_20250318_010609](https://github.com/user-attachments/assets/46380ae5-c35e-4eed-afa1-e728d151cd8e)
+
+![Uploading Screenshot_20250318_010700.png…]()
+
+![Screenshot_20250318_010648](https://github.com/user-attachments/assets/0d174bde-f429-4898-a8c6-bd4887fd091a)
 
 ## 📥 Installation
 
